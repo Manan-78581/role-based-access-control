@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.css": "css",
+    "*.scss": "scss",
+    "*.json": "json",
+    "*.ts": "typescript",
+    "*.tsx": "typescriptreact"
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
